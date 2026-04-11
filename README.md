@@ -141,4 +141,3 @@ Your FastAPI routes are defined in `app/route.py`, and request/response schemas 
 
 
 
-Add a `LICENSE` file (MIT/Apache-2.0/etc.) if you plan to share publicly.
